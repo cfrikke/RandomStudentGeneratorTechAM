@@ -8,6 +8,7 @@
             r = rand.Next(0, 39); 
             Console.Clear();
             Console.Write(StudentList.Students[r]);
+            Thread.Sleep(1);
         }
     }
 }
