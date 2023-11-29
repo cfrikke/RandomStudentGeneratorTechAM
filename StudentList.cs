@@ -1,6 +1,6 @@
 public class StudentList
 {
-public readonly List<string> Students;
+public List<string> Students;
 public StudentList()
 {
 Students = new List<string> {
@@ -14,6 +14,7 @@ Students = new List<string> {
         "Jacob Daniel",
         "Hayden Flick",
         "Madaline Fowler",
+        "Chase Frikken",
         "Nicholas Fultz",
         "Jeremiah Guerra",
         "Ashley Haltenhoff",
@@ -45,5 +46,11 @@ Students = new List<string> {
 
 };
 
+}
+
+
+public string this[int index]{
+    get { return Students[index]; }
+    set { Students[index] = value; }
 }
 }

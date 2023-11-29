@@ -1,14 +1,16 @@
 ﻿public class Program {
     public static void Main(){
-        Random rand = new();
-        StudentList StudentList = new();
+        Random rnd = new Random();
+        StudentList StudentList = new StudentList();
         int r;
+        int x = 1;
         Console.Clear();
-        for(int i = 0; i > 10; i++){
-            r = rand.Next(0, 39); 
+        for(int i = 0; i < 100; i++){
+            r = rnd.Next(0, 38); 
             Console.Clear();
-            Console.Write(StudentList.Students[r]);
-            Thread.Sleep(1000);
+            Console.WriteLine(StudentList[r]);
+            Thread.Sleep(x);
+            x += i/20;
         }
     }
 }
