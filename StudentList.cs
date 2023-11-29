@@ -1,8 +1,9 @@
-public class StudentList {
-private List<string> students;
+public class StudentList
+{
+public readonly List<string> Students;
 public StudentList()
 {
-students = new List<string> {
+Students = new List<string> {
         "Max Baykowski",
         "Ashley Berna",
         "William Boes",
@@ -41,5 +42,8 @@ students = new List<string> {
         "Maximilian Wallace",
         "Samuel Walters",
         "Keagan Ziemann-Bell"
-        };
+
+};
+
+}
 }

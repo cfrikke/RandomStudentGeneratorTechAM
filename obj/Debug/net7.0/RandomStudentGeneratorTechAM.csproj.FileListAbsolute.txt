@@ -1,0 +1,5 @@
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.csproj.AssemblyReference.cache
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.AssemblyInfoInputs.cache
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.AssemblyInfo.cs
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.csproj.CoreCompileInputs.cache
