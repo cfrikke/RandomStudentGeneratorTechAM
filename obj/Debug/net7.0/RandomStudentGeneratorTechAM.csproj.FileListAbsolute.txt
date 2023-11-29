@@ -3,3 +3,13 @@
 /workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.AssemblyInfoInputs.cache
 /workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.AssemblyInfo.cs
 /workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.csproj.CoreCompileInputs.cache
+/workspaces/RandomStudentGeneratorTechAM/bin/Debug/net7.0/RandomStudentGeneratorTechAM
+/workspaces/RandomStudentGeneratorTechAM/bin/Debug/net7.0/RandomStudentGeneratorTechAM.deps.json
+/workspaces/RandomStudentGeneratorTechAM/bin/Debug/net7.0/RandomStudentGeneratorTechAM.runtimeconfig.json
+/workspaces/RandomStudentGeneratorTechAM/bin/Debug/net7.0/RandomStudentGeneratorTechAM.dll
+/workspaces/RandomStudentGeneratorTechAM/bin/Debug/net7.0/RandomStudentGeneratorTechAM.pdb
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.dll
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/refint/RandomStudentGeneratorTechAM.dll
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.pdb
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/RandomStudentGeneratorTechAM.genruntimeconfig.cache
+/workspaces/RandomStudentGeneratorTechAM/obj/Debug/net7.0/ref/RandomStudentGeneratorTechAM.dll
