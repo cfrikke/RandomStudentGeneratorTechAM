@@ -1,0 +1,15 @@
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net7.0\RandomStudentGeneratorTechAM.exe
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net7.0\RandomStudentGeneratorTechAM.deps.json
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net7.0\RandomStudentGeneratorTechAM.runtimeconfig.json
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net7.0\RandomStudentGeneratorTechAM.dll
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net7.0\RandomStudentGeneratorTechAM.pdb
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.csproj.AssemblyReference.cache
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.AssemblyInfoInputs.cache
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.AssemblyInfo.cs
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.csproj.CoreCompileInputs.cache
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.dll
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\refint\RandomStudentGeneratorTechAM.dll
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.pdb
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\RandomStudentGeneratorTechAM.genruntimeconfig.cache
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\obj\Release\net7.0\ref\RandomStudentGeneratorTechAM.dll

@@ -1,0 +1,5 @@
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net6.0\publish\RandomStudentGeneratorTechAM.exe
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net6.0\publish\RandomStudentGeneratorTechAM.dll
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net6.0\publish\RandomStudentGeneratorTechAM.deps.json
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net6.0\publish\RandomStudentGeneratorTechAM.runtimeconfig.json
+C:\Users\chfr8d9\Desktop\RandomStudentGeneratorTechAM\bin\Release\net6.0\publish\RandomStudentGeneratorTechAM.pdb
